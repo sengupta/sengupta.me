@@ -5,7 +5,7 @@ title: Aditya Sengupta
 Aditya Sengupta
 ===============
 
-Email: <aditya@sengupta.me>
+Email: <aditya@sengupta.org>
 
 Web:
 [Linkedin][linkedin], 
